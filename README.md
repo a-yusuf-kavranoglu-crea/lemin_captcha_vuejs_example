@@ -44,15 +44,13 @@ Lemin Captcha is uniquely playful, robust, and effective. Through gamification, 
   <a href="https://yarn.pm/@leminnow/vue-lemin-cropped-captcha">
     <img src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
   </a>
-  <a>
-    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
-  </a>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 </p>
 
 <p>
-<a><img src="https://img.shields.io/npm/v/@leminnow/vue-lemin-cropped-captcha?style=for-the-badge"></a>
-<a><img src="https://img.shields.io/npm/dw/@leminnow/vue-lemin-cropped-captcha?style=for-the-badge"></a>
-<a><img src="https://img.shields.io/bundlephobia/min/@leminnow/vue-lemin-cropped-captcha?style=for-the-badge"></a>
+  <img src="https://img.shields.io/npm/v/@leminnow/vue-lemin-cropped-captcha?style=for-the-badge">
+  <img src="https://img.shields.io/npm/dw/@leminnow/vue-lemin-cropped-captcha?style=for-the-badge">
+  <img src="https://img.shields.io/bundlephobia/min/@leminnow/vue-lemin-cropped-captcha?style=for-the-badge">
 </p>
 
 ---
