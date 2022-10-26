@@ -60,41 +60,41 @@ Lemin Captcha is uniquely playful, robust, and effective. Through gamification, 
 ## Documentation
 
 ### Required variables for UI
-#### Set [Captcha ID](https://help.leminnow.com/knowledge/how-to-display-lemin-captcha)
-``` bash
-captchaId: 'YOUR_CAPTCHA_ID'
-```
-
-- ##### How can I get my `captchaId`?
-  Select a puzzle captcha from [your puzzle captchas](https://dashboard.leminnow.com/products/captcha-list)
-  </br>
-  Copy your `captchaId` from your puzzle's captcha script source
+> #### Set [Captcha ID](https://help.leminnow.com/knowledge/how-to-display-lemin-captcha)
+> ``` bash
+> captchaId: 'YOUR_CAPTCHA_ID'
+> ```
+>
+> - ##### How can I get my `captchaId`?
+>   Select a puzzle captcha from [your puzzle captchas](https://dashboard.leminnow.com/products/captcha-list)
+>   </br>
+>   Copy your `captchaId` from your puzzle's captcha script source
 
 ---
 
-#### Set [Container ID](https://help.leminnow.com/knowledge/how-to-display-lemin-captcha)
-
-``` bash
-containerId: 'YOUR_CONTAINER_ID'
-```
-
-- ##### How can I get my `containerId`?
-  Click on **Advanced Settings** from the puzzle captcha of your choice
-  </br>
-  Copy your `containerId` from Captcha Div ID
+> #### Set [Container ID](https://help.leminnow.com/knowledge/how-to-display-lemin-captcha)
+>
+> ``` bash
+> containerId: 'YOUR_CONTAINER_ID'
+> ```
+>
+> - ##### How can I get my `containerId`?
+>   Click on **Advanced Settings** from the puzzle captcha of your choice
+>   </br>
+>   Copy your `containerId` from Captcha Div ID
 
 ---
 
 ### Required variables for API
-#### Set [Private Key](https://help.leminnow.com/knowledge/how-does-lemin-verify-a-captcha-answer)
-``` bash
-private_key: "YOUR_PRIVATE_KEY"
-```
-
-- ##### How can I get my `private_key`?
-  Click on the [account](https://dashboard.leminnow.com/account/edit-profile) settings page.
-  </br>
-  Copy your `private_key` from Private Key
+> #### Set [Private Key](https://help.leminnow.com/knowledge/how-does-lemin-verify-a-captcha-answer)
+> ``` bash
+> private_key: "YOUR_PRIVATE_KEY"
+> ```
+>
+> - ##### How can I get my `private_key`?
+>   Click on the [account](https://dashboard.leminnow.com/account/edit-profile) settings page.
+>   </br>
+>   Copy your `private_key` from Private Key
 
 ---
 
