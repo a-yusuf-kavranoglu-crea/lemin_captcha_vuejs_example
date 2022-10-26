@@ -12,7 +12,7 @@
         <label for="floatingPassword">Password</label>
       </div>
 
-      <LeminCroppedCaptcha ref="captchaRef" v-bind:captcha-id="croppedId" v-bind:container-id="containerId"/>
+      <LeminCroppedCaptcha ref="captchaRef" v-bind:captcha-id="captchaId" v-bind:container-id="containerId"/>
       <button class="w-100 btn btn-lg btn-primary" onClick={handleSignin}>Sign in</button>
     </form>
   </div>
@@ -34,8 +34,8 @@ export default {
     return {
       username: '',
       password: '',
-      croppedId: 'YOUR_CAPTCHA_ID',
-      containerId: 'lemin-cropped-captcha'
+      captchaId: 'YOUR_CAPTCHA_ID',
+      containerId: 'YOUR_CONTAINER_ID'
     }
   },
   methods: {
